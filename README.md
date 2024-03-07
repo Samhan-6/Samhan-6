@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/SWoSkN6DxTszqIKEqv)]
+[![MasterHead](https://giphy.com/embed/SWoSkN6DxTszqIKEqv)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Samhan Shuhaib</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
